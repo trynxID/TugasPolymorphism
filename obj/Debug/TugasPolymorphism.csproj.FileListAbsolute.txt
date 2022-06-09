@@ -1,0 +1,6 @@
+D:\Kuliah C#\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.exe.config
+D:\Kuliah C#\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.csprojResolveAssemblyReference.cache
+D:\Kuliah C#\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.exe
+D:\Kuliah C#\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.pdb
+D:\Kuliah C#\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.exe
+D:\Kuliah C#\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.pdb
